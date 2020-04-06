@@ -5,3 +5,5 @@ def using_times
 end
 
 using_times
+
+puts "Now you can levitate objects! You're a wizard. Super cool."
